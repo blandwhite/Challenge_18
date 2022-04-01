@@ -36,6 +36,19 @@ prior to running these libraries, install them from the command line:
 
 ## Usage
 
+#### The following shows what happens when you add a `record` to the block:
+
+![](Images/pychain_ledger.gif)
+
+#### Here's a look at inspecting the blocks, and validating the blockchain:
+
+![](Images/pychain_validate_etc.gif)
+
+There appears to be a known issue with Streamlit version 0.85.0 that affects displaying a pandas DataFrame, and so the code included converting the dataframe to a string:
+```python
+pychain_df = pd.DataFrame(pychain.chain).astype(str)
+```
+
 ---
 
 ## Contributors

@@ -3,7 +3,7 @@ UNCC Online FinTech Bootcamp Module 18 Challenge due by 11:59pm 4/10/2022
 
 ![design by G Tarleton](Images/bootcamp_quote.png)
 
-[bootcampspot.com](https://courses.bootcampspot.com/courses/980/pages/18-dot-3-7-activity-validating-the-blockchain?module_item_id=378005)
+Quote from [bootcampspot.com](https://courses.bootcampspot.com/courses/980/pages/18-dot-3-7-activity-validating-the-blockchain?module_item_id=378005) / Design by Geoff Tarleton
 
 ---
 
@@ -24,7 +24,7 @@ A python script `pychain.py` is written using Visual Studio Code, and includes a
 This application is written in Python 3.7 using Visual Studio Code
 
  - [Pandas](https://pandas.pydata.org/pandas-docs/stable/) - *an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.*
- - [Streamlit](https://streamlit.io/) - *an open source library that turns data scripts into shareable web apps in minutes.
+ - [Streamlit](https://streamlit.io/) - *an open source library that turns data scripts into shareable web apps in minutes.*
 
 ### Installation Guide
 
